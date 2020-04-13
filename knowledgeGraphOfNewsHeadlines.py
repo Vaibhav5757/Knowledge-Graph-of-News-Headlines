@@ -150,8 +150,6 @@ for string in news:
             print(firstEntity)
             print(relationShip)
             print(secondEntity)
-            str = ""
-            
             
 #Root nodes of Knowledge Graph Created
 print("ROOT CATEGORIES CREATED")
